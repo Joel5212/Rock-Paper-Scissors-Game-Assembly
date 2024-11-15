@@ -41,14 +41,11 @@ _to mark a task as done edit this file and put an x in the box_
 - May 15th - Submit
 
 ## Player vs Computer Demo (First to 3 wins)
-#
 <img src="rps_game_demo_not_endless_mode.gif" width=800 height=800><br>
 
 ## Player vs Computer Demo (Endless Mode)
-#
 <img src="rps_game_demo_endless_mode.gif" width=800 height=800><br>
 
 ## Player vs Player Demo
-#
 <img src="rps_game_demo_endless_mode.gif" width=800 height=800><br>
 
