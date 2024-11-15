@@ -47,5 +47,5 @@ _to mark a task as done edit this file and put an x in the box_
 <img src="rps_game_demo_endless_mode.gif" width=800 height=800><br>
 
 ## Player vs Player Demo
-<img src="rps_game_demo_endless_mode.gif" width=800 height=800><br>
+<img src="rps_game_demo_p_v_p_mode.gif" width=800 height=800><br>
 
