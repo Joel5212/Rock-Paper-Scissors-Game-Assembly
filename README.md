@@ -39,3 +39,13 @@ _to mark a task as done edit this file and put an x in the box_
 - May 5th to 12th - Score keeping mechanic and 2 player mode
 - May 13th - Regroup and make sure program works/ fix errors
 - May 15th - Submit
+
+#Player vs Computer (First to 3 wins)
+<img src="rps_game_demo_not_endless_mode.gif" width=500 height=700><br>
+
+#Player vs Computer (Endless Mode)
+<img src="rps_game_demo_endless_mode.gif" width=500 height=700><br>
+
+#Player vs Player
+<img src="rps_game_demo_endless_mode.gif" width=500 height=700><br>
+
