@@ -21,7 +21,7 @@ _to mark a task as done edit this file and put an x in the box_
 
 **Joel**
 - [X] Ask the user if they want to play again
-- [x] Keeping session score
+- [x] Tracking session score
 
 **Hailee**
 - [x] Tell the user their choices
